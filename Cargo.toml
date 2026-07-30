@@ -2264,6 +2264,11 @@ name = "audio"
 path = "examples/audio/audio.rs"
 doc-scrape-examples = true
 
+[[example]]
+name = "audio_wav"
+path = "examples/audio/audio_wav.rs"
+doc-scrape-examples = true
+
 [package.metadata.example.audio]
 name = "Audio"
 description = "Shows how to load and play an audio file"
